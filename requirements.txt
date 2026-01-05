@@ -1,5 +1,8 @@
-python-telegram-bot
-selenium
-webdriver-manager
-python-dotenv
-nest_asyncio
+pyTelegramBotAPI
+yt-dlp
+requests
+python-whois
+qrcode
+gTTS
+faker
+Pillow
